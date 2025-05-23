@@ -6,12 +6,12 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setup(
     name="querymind",
     version="0.1.0",
-    author="Your Name",
-    author_email="your.email@example.com",
+    author="Ra-Is",
+    author_email="osumanurais@gmail.com",
     description="Ask natural language questions about your CSV data using AI",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/rais/QueryMind",
+    url="https://github.com/ra-is/querymind",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 3 - Alpha",
@@ -43,7 +43,7 @@ setup(
         "natural-language",
     ],
     project_urls={
-        "Bug Reports": "https://github.com/rais/QueryMind/issues",
-        "Source": "https://github.com/rais/QueryMind",
+        "Bug Reports": "https://github.com/ra-is/querymind/issues",
+        "Source": "https://github.com/ra-is/querymind",
     },
 ) 
